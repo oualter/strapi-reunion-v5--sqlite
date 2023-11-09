@@ -1,8 +1,8 @@
 {
   "name": "reunions",
   "private": true,
-  "version": "0.1.0",
-  "description": "A Strapi application",
+  "version": "0.3.0",
+  "description": "Strapi pour 1651Ouest",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -28,7 +28,7 @@
     "uuid": "57740eb4-9492-4d68-a09d-9534757f35aa"
   },
   "engines": {
-    "node": ">=18.0.0 <=20.x.x",
+    "node": "~18.18.0",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
